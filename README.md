@@ -76,6 +76,7 @@ Next, we would like to create inputs for the user to insert their name, email, p
 <form action="#" method="post">
   <label for="fullname">Name</label>
   <input type="text" id="fullname" name="fullname" placeholder="your name" required>
+
 </form>
 ```
 
